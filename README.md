@@ -14,3 +14,5 @@ Primeiro projeto da cadeira de Introdução a Algoritmos e Estruturas de Dados d
 - m <_id_> <_utilizador_> <_atividade_>: move uma tarefa de uma atividade para outra
 - d <_atividade_>: lista todas as tarefas que estejam numa dada atividade
 - a [<_atividade_>]: adiciona uma atividade ou lista todas as atividades
+
+Nota: 20
