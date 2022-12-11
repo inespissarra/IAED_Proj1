@@ -1,5 +1,7 @@
 # IAED Sistema de Gestão de Tarefas
 
+Primeiro projeto da cadeira de Introdução a Algoritmos e Estruturas de Dados de LEIC-A. (Ano 2020/2021)
+
 - Compilar: gcc -Wall -Wextra -Werror -ansi -pedantic -o proj1 *.c
 - Executar: ./proj1
 
